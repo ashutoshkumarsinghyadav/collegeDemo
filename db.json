@@ -1,0 +1,50 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Pushkar",
+      "age": 100
+    },
+    {
+      "id": 2,
+      "name": "Prem",
+      "age": 102
+    },
+    {
+      "id": 3,
+      "name": "Abhishek",
+      "age": 103
+    }
+    {
+      "id": 4,
+      "name": "Dishani",
+      "age": 104
+    }
+   {
+      "id": 5,
+      "name": "Ekta",
+      "age": 105
+    }
+
+    {
+      "id": 6,
+      "name": "swati",
+      "age": 106
+    }
+   {
+      "id": 7,
+      "name": "sweety",
+      "age": 107
+    }
+   {
+      "id": 8,
+      "name": "Sanajy sir",
+      "age": 108
+    }
+   {
+      "id": 9,
+      "name": "Ashutosh",
+      "age": 109
+    }
+  ]
+}
